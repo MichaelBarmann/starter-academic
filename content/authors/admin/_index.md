@@ -69,8 +69,6 @@ email: ""
 highlight_name: false
 ---
 
-
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am a research assistant in the department of Mathematics and Statistics at UMass Amherst. My current work focuses on developing mathematical models for the spread of COVID-19. My main research interests are mathematical modeling of infectious diseases, scientific computing, numerical analysis, and differential equations. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
