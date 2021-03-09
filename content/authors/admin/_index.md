@@ -69,6 +69,7 @@ email: ""
 highlight_name: false
 ---
 
-I am a research assistant in the department of Mathematics and Statistics at UMass Amherst. My current work focuses on developing mathematical models for the spread of COVID-19. My main research interests are mathematical modeling of infectious diseases, scientific computing, numerical analysis, and differential equations. 
+I am a research assistant in the department of Mathematics and Statistics at the University of Massachusetts[Resume 2021.pdf](https://github.com/MichaelBarmann/starter-academic/files/6112086/Resume.2021.pdf)
+ Amherst. My current work focuses on developing mathematical models for the spread of COVID-19. My main research interests are mathematical modeling of infectious diseases, scientific computing, numerical analysis, and differential equations. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
